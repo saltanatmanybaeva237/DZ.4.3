@@ -1,0 +1,16 @@
+.shop {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+
+  h1 {
+    margin-bottom: 20px;
+    color: #333333;
+  }
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
